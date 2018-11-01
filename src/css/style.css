@@ -101,9 +101,6 @@ h2.background {
       margin-top: 7px;
       display: block;
       background-color: #ea4b12; }
-  @media (max-width: 1024px) {
-    .module_footer .socials {
-      width: 50%; } }
   .module_footer .socials h5 {
     margin-bottom: 15px; }
   .module_footer .socials ul {
